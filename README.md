@@ -11,18 +11,16 @@ students for the practical projects during the year.
  * WK2  Manipulating, visualising and cleaning data (Pandas)
  * WK3: Fitting a model to data
  * WK4: Modelling data: Bayesian reasoning and samplers (MCMC)
- * WK5: Exploring structure in data: visualisation, PCA
- * WK6: Exploring structure in data: K-means clustering
+ * WK5: Exploring structure in data: K-means clustering
+ * WK6: Good Friday (NO LECTORIAL)
  * WK7: Exploring structure in data: Gausian Mixture Models
- * WK8: Anzac day
- * WK9: Classification: decision trees and random forest
- * WK10: Artificial neural networks
- * WK11: Convolutional neural networks
- * WK12: Revision
+ * WK8: Classification: decision trees and random forest
+ * WK9: Artificial neural networks
+ * WK10: Convolutional neural networks
+ * WK11: Revision
 
-Tutorials start in Week 1 and run until Week 11, covering new topics
-each week. If required, in Week 12 I will host a revision tutorial covering
-material from previous weeks.
+Tutorials start in Week 1 and run until Week 10, covering new topics
+each week. Week 11 as a buffer if things take longer than expected. If required, in Week 12 I will host a revision tutorial covering material from previous weeks.
 
 ## Technical Setup
 

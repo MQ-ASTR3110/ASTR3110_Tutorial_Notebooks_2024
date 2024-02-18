@@ -48,12 +48,12 @@ repository into your gdrive. It is advised that you clone the GitHub repository 
 (to avoid overwriting an existing directory that may contain work from a
 previous week). To do this, in a new cell run:
 ```
-!git clone https://github.com/MQ-ASTR3110/ASTR3110_Tutorial_Notebooks_2023.git New_Dir
+!git clone https://github.com/MQ-ASTR3110/ASTR3110_Tutorial_Notebooks_2024.git New_Dir
 
 ```
 and the contents of the repository will be cloned into the new directory New_Dir/ (you can name this differently if you choose, e.g., Week1 for the first week etc.).
 
-## Step 3: Start a Jupiter Notebook and reconnect to your Google Drive.
+## Step 3: Start a Jupyter Notebook and reconnect to your Google Drive.
 
 Most excercises in this tutorial are done within a Jupyter
 Notebook. You can think of these as being similar to a spreadsheet
@@ -76,7 +76,7 @@ Drive (if you need to save data from the Notebook):
 from google.colab import drive
 drive.mount('/content/gdrive')
 import os
-os.chdir('/content/gdrive/MyDrive/New_Dir/ASTR3110_Tutorial_Notebooks_2023')
+os.chdir('/content/gdrive/MyDrive/New_Dir/ASTR3110_Tutorial_Notebooks_2024')
 ```
  * Enter your authorization code from the provided link again.
 
